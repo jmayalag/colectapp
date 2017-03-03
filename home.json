@@ -7,53 +7,53 @@
           "items": [{
             "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/barton_avatar.png",
             "name": "Barton",
-            "location": "Somewhere",
+            "location": "Luque",
             "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/barton.jpg"
           }, {
             "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/audrey_avatar.png",
             "name": "Audrey",
-            "location": "Somewhere",
+            "location": "Asunción",
             "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/audrey.jpg"
           }, {
             "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/boss_avatar.png",
             "name": "Audrey",
-            "location": "Somewhere",
+            "location": "Aregua",
             "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/boss.jpg"
           }, {
             "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/chet_avatar.png",
             "name": "Chet!",
-            "location": "Somewhere",
+            "location": "Caacupe",
             "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/chet.jpg"
           }, {
             "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/girl_avatar.png",
             "name": "Girl",
-            "location": "Somewhere",
+            "location": "Luque",
             "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/girl.jpg"
           }]
         }, {
           "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/barton_avatar.png",
           "name": "Barton",
-          "location": "Somewhere",
+          "location": "Asuncion",
           "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/barton.jpg"
         }, {
           "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/audrey_avatar.png",
           "name": "Audrey",
-          "location": "Somewhere",
+          "location": "Aregua",
           "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/audrey.jpg"
         }, {
           "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/boss_avatar.png",
           "name": "Audrey",
-          "location": "Somewhere",
+          "location": "Caazapa",
           "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/boss.jpg"
         }, {
           "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/chet_avatar.png",
           "name": "Chet!",
-          "location": "Somewhere",
+          "location": "Luque",
           "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/chet.jpg"
         }, {
           "avatar": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/girl_avatar.png",
           "name": "Girl",
-          "location": "Somewhere",
+          "location": "Ciudad del Este",
           "content": "https://raw.githubusercontent.com/jmayalag/colectapp/master/images/girl.jpg"
         }]
       },
@@ -139,7 +139,7 @@
                         }
                       }, {
                         "type": "label",
-                        "text": "{{location}} >",
+                        "text": "{{location}}",
                         "style": {
                           "font": "HelveticaNeue",
                           "size": "11"
